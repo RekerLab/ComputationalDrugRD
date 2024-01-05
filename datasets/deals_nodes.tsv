@@ -1,0 +1,316 @@
+Id	name	set	organization_type	private_public	company_size
+1118745	AbCellera Biologics	computational_biotech	Company	Public	
+1051398	Tetragenetics Inc	computational_biotech	Company	Private	
+1093072	AbSci	computational_biotech	Company	Public	
+1208475	Totient Inc	computational_biotech	Company	Private	
+1080710	Adagene	computational_biotech	Company	Private	
+1084743	AI Therapeutics	computational_biotech	Company		
+1196876	ArsenalBio	computational_biotech	Others		
+1139692	Atomwise	computational_biotech	Company	Private	
+1138966	BenevolentAI	computational_biotech	Company	Private	
+1184789	BIOAGE LABS	computational_biotech	Company	Private	
+1102582	BioXcel Therapeutics	computational_biotech	Company	Public	
+1164801	Celsius Therapeutics	computational_biotech	Company	Private	
+1100779	Circle Pharma	computational_biotech	Company	Private	
+27293	Compugen	computational_biotech	Company	Public	Small
+1140964	Deep Genomics	computational_biotech	Company	Private	
+1194866	Dyno Therapeutics	computational_biotech	Company	Private	
+1026417	e-Therapeutics	computational_biotech	Company		
+1073911	Evaxion Biotech	computational_biotech	Company	Public	
+1102412	Exscientia	computational_biotech	Company	Public	
+1155639	Finch Therapeutics	computational_biotech	Company	Public	
+1138780	Finch Therapeutics Inc	computational_biotech	Company		
+1189253	Frontier Medicines	computational_biotech	Company	Private	
+1108263	Healx	computational_biotech	Company	Private	
+1046215	Immuneering	computational_biotech	Company	Public	
+1209718	ImmunoScape	computational_biotech	Company	Private	
+1123826	Insilico Medicine	computational_biotech	Company		
+1184745	Insitro	computational_biotech	Company	Private	
+1106466	Lantern Pharma	computational_biotech	Company	Public	
+1187485	Modulus Discovery	computational_biotech	Company	Private	
+1238098	Neuron23	computational_biotech	Company	Private	
+1154607	Peptilogics	computational_biotech	Company	Private	
+1096979	Recursion Pharmaceuticals	computational_biotech	Company	Public	
+1139125	Vium Inc	computational_biotech			
+1129791	Relay Therapeutics	computational_biotech	Company	Public	
+1217171	Reverie Labs	computational_biotech	Company	Private	
+1023065	Schrödinger	computational_biotech	Company	Public	
+1114113	XTAL BioStructures	computational_biotech	Company		
+1146473	Verge Genomics	computational_biotech	Company	Private	
+1212881	Alto Neuroscience	computational_biotech	Company	Private	
+1233509	BigHat Biosciences	computational_biotech	Company	Private	
+1248993	MindRank AI	computational_biotech	Not Classified		
+1205285	Turbine	computational_biotech	Company		
+1208592	Generate Biomedicines	computational_biotech	Company	Private	
+1010930	Prometheus Biosciences	computational_biotech	Company	Public	
+1285825	RQ Biotechnology Ltd	associated	Company		
+1072507	AbbVie Inc	associated	Company	Public	Large
+1163805	Rallybio Corp	associated	Company		
+19214	Regeneron Pharmaceuticals Inc	associated	Company	Public	Large
+1124505	Atlas Venture	associated	Company		
+1140701	Versant Ventures	associated	Company		
+1157539	Everest Medicines Ltd	associated	Others		
+1060964	Moderna Inc	associated	Company	Public	
+1240548	Tachyon Therapeutics Inc	associated	Company		
+1014332	IGM Biosciences Inc	associated	Company	Public	
+15300	Federal Government of Canada	associated	Non-Profit		
+17810	Eli Lilly & Co	associated	Company	Public	Large
+1206367	Invetx	associated	Company	Private	
+16450	Gilead Sciences Inc	associated	Company	Public	Mega
+1032580	Bill & Melinda Gates Foundation	associated	Non-Profit		
+23137	Novartis AG	associated	Company	Public	Mega
+1105192	Autolus Therapeutics Ltd	associated	Company	Public	
+1109113	Denali Therapeutics Inc	associated	Company	Public	
+24810	Defense Advanced Research Projects Agency	associated	Company		
+1203707	EQRx Inc	associated	Company	Public	
+1160899	Salipro Biotech Ab	associated	Company		
+1141946	Vir Biotechnology Inc	associated	Company	Public	
+1082713	Trianni Inc	associated	Company		
+1031876	aTyr Pharma Inc	associated	Company	Public	
+1194869	Alloy Therapeutics LLC	associated	Company	Private	
+1009858	EpiVax Inc	associated	Company		
+20562	Colorado State University	associated	Academic		
+1057220	Harbour Antibodies	associated	Company	Private	
+23247	University of Massachusetts Medical School	associated	Academic		
+1181645	Imbrium Therapeutics LP	associated	Company		
+1034427	Juvenile Diabetes Research Foundation International	associated	Non-Profit		
+1111010	Theranyx	associated	Company		
+1037349	Heptares Therapeutics Ltd	associated	Company	Private	
+1059667	National Institute of General Medical Sciences	associated	Company		
+30017	Eloxx Pharmaceuticals Inc	associated	Company	Public	Micro
+1049546	Crystal Bioscience Inc	associated	Others		
+1041264	argenx SE	associated	Company	Public	
+18008	MedImmune LLC	associated	Company		
+18767	Pfizer Inc	associated	Company	Public	Mega
+14109	Amgen Inc	associated	Company	Public	Large
+20520	National Institute of Allergy and Infectious Diseases	associated	Non-Profit		
+1187728	Abveris Inc	associated	Company		
+1054893	LifeArc	associated	Non-Profit		
+1132184	ImmunoPrecise Antibodies (Europe) BV	associated	Company		
+20579	University of Georgia	associated	Academic		
+20691	Utah State University	associated	Academic		
+1065113	M2Gen	associated	Company	Private	
+1019230	Xyphos Biosciences Inc	associated	Company		
+1077964	Alpha Cancer Technologies Inc	associated	Company		
+1037067	KBI Biopharma Inc	associated	Company	Private	
+1009547	Sanofi SA	associated	Company	Public	Mega
+1068727	Ginkgo BioWorks Inc	associated	Company	Public	
+19446	Roche Holding AG	associated	Company	Public	Mega
+1086183	Dragonboat Biopharmaceutical Co Ltd	associated	Company		
+18077	Merck & Co Inc	associated	Company	Public	Mega
+22676	Exelixis Inc	associated	Company	Public	Small
+21740	Tanabe Research Labs USA Inc	associated	Company		
+1068935	ADC Therapeutics SA	associated	Company	Public	
+15331	Celgene Corporation	associated	Company	Public	Large
+1066856	Guilin Sanjin Pharmaceutical Co Ltd	associated	Company	Public	Medium
+1163991	Next Oncology	associated	Company		
+1147610	National University Cancer Institute, Singapore	associated	Academic		
+1003240	National Heart Lung and Blood Institute	associated	Non-Profit		
+1122083	WuXi Biologics (Cayman) Inc	associated	Company	Public	
+1032000	Entrechem	associated	Company		
+20703	Yale University	associated	Academic		
+21864	University of Texas System	associated	Academic		
+15119	Bristol-Myers Squibb AB	associated			
+19453	Genentech Inc	associated	Company		
+1032764	Thermo Fisher Scientific Inc	associated			
+1072877	Teneobio Inc	associated	Company		
+1153465	Bridge Biotherapeutics Inc	associated	Company	Public	
+1071218	BioMotiv LLC	associated	Company	Private	
+18291	Monsanto Co	associated	Company	Public	Large
+14455	Bayer AG	associated	Company	Public	Mega
+1003431	Atropos Therapeutics Inc	associated	Company		
+1194794	Hansoh Pharmaceutical Group Co Ltd	associated			
+1194608	OncoStatyx LLC	associated	Company		
+20623	University of Michigan	associated	Academic		
+1060129	Enamine Ltd	associated	Company		
+1013599	Drugs for Neglected Diseases initiative	associated	Non-Profit		
+20563	University of Connecticut	associated	Academic		
+14424	Charles River Laboratories International Inc	associated	Company	Public	Medium
+1129756	FutuRx	associated	Company		
+20687	University of Toledo	associated	Academic		
+1171088	Jazan University	associated	Academic		
+30796	University of South Australia	associated	Academic		
+20600	University of Kentucky	associated	Academic		
+15615	Dana-Farber Cancer Institute Inc	associated	Company		
+1003628	University of Texas Health Science Center San Antonio	associated	Company		
+20559	Columbia University	associated	Academic		
+20614	University of Manitoba	associated	Academic		
+1140786	StemoniX Inc	associated	Company	Private	
+1153077	SEngine Precision Medicine	associated	Company	Private	
+1134859	Temasek Holdings	associated			
+1063610	Neuropore Therapies Inc	associated	Company		
+22182	University of Oxford	associated	Academic		
+25451	University of California San Diego	associated	Academic		
+1132473	Sheffield Institute for Translational Neuroscience	associated	Academic		
+17421	Janssen Pharmaceutica NV	associated			
+20594	University of Iowa	associated	Academic		
+1097673	HitGen Ltd	associated	Company	Public	
+19898	Shionogi & Co Ltd	associated	Company	Public	Medium
+20289	Taisho Pharmaceutical Co Ltd	associated	Company		
+1104143	Congressionally Directed Medical Research Programs	associated	Company		
+17221	Nektar Therapeutics	associated	Company	Public	Medium
+29927	Alnylam Pharmaceuticals Inc	associated	Company	Public	Medium
+1070009	Axcella Health Inc	associated	Company	Public	
+1054439	Worldwide Clinical Trials Inc	associated	Company	Private	
+1050885	Cognitive Research Corp	associated	Others		
+23382	MD Anderson Cancer Center	associated	Academic		
+1043519	Adimab LLC	associated	Company	Private	
+19863	Les Laboratories Servier SAS	associated	Company		
+1123230	Applied BioMath LLC	associated	Company		
+1042240	University Hospital Munich	associated	Company		
+22123	The Cleveland Clinic Foundation	associated	Non-Profit		
+1122335	Parker Institute for Cancer Immunotherapy	associated	Company		
+26997	Janssen Biotech Inc	associated	Company		
+1141056	Harbour BioMed Ltd	associated	Company		
+15065	Bristol-Myers Squibb Co	associated	Company	Public	Large
+20518	National Institutes of Health	associated	Non-Profit		
+19862	Merck Serono SA	associated	Company		
+1008903	BioLineRx Ltd	associated	Company	Public	Micro
+1049810	Pulmonary Fibrosis Foundation	associated	Non-Profit		
+1002510	DiscoveRx Corp	associated	Company	Private	
+25554	Seagen Inc	associated	Company	Public	Medium
+16192	Flamel Technologies SA	associated	Company	Public	Small
+19687	Bayer Schering Pharma AG	associated	Company		
+22310	Israeli Government	associated	Non-Profit		
+18101	Merck KGaA	associated	Company	Public	Large
+1003855	Vessl Therapeutics Ltd	associated	Company	Private	
+17002	Human Genome Sciences Inc	associated	Company		
+17724	Kyowa Hakko Kogyo Co Ltd	associated			
+20954	XOMA Corp	associated	Company	Public	Small
+1014100	Selexis SA	associated	Company		
+20631	Mount Sinai School of Medicine	associated	Academic		
+1007298	Bayer Healthcare LLC	associated	Company		
+24056	Johns Hopkins University School of Medicine	associated	Academic		
+1009750	University of Pittsburgh Medical Center	associated	Company		
+21452	Kennedy Institute of Rheumatology	associated	Company		
+20645	Northwestern University	associated	Academic		
+24773	University of California San Francisco	associated	Academic		
+1014359	Protalix BioTherapeutics Inc	associated	Company	Public	Small
+25861	BioMarin Pharmaceutical Inc	associated	Company	Public	Large
+1088247	Wave Life Sciences Ltd	associated	Company	Public	
+1013295	Astellas Pharma Inc	associated	Company	Public	Large
+14240	Sarepta Therapeutics Inc	associated	Company	Public	Medium
+1015280	Google Inc	associated	Company	Public	Mega
+27741	Galapagos NV	associated	Company	Public	Small
+18614	Novo Nordisk A/S	associated	Company	Public	Large
+1006427	Khandelwal Laboratories Ltd	associated	Company		
+1007259	Cresset	associated	Company	Private	
+1014227	WuXi AppTec Co Ltd	associated	Company	Public	
+1042758	C4X Discovery Holdings plc	associated	Company	Public	
+1159139	Biorelate Ltd	associated	Company	Private	
+1159138	Intellegens Ltd	associated	Company		
+1061569	UC San Diego Moores Cancer Center	associated	Company		
+23309	University of Newcastle	associated	Academic		
+1042032	National Institute for Health Research	associated	Company		
+29469	Cancer Research UK	associated	Non-Profit		
+1059962	Infinitus Clinical Research	associated	Company		
+1006631	Health Protection Agency	associated	Company		
+1045729	Oxford Cardiac Pharmacology Ltd	associated	Company		
+1003255	Cerca Insights Sdn Bhd	associated	Company	Private	
+1041981	Veeda Oncology	associated	Company		
+1226750	ExpreS2ion Biotech Holding AB	associated	Company	Public	
+1073267	The Danish National Advanced Technology Foundation	associated	Non-Profit		
+1060488	European Eurostars Programme	associated	Others		
+24588	University of Copenhagen	associated			
+24244	Bavarian Nordic A/S	associated	Company	Public	Small
+1188227	Sanofi Aventis Groupe SA	associated	Company		
+1157504	Blue Oak Pharmaceuticals Inc	associated	Company		
+1188175	GT Apeiron Therapeutics	associated	Company		
+28355	GSK plc	associated	Company	Public	Mega
+25829	Evotec SE	associated	Company	Public	Small
+1017117	Sumitomo Pharma Co Ltd	associated	Company	Public	Medium
+19858	Sunovion Pharmaceuticals Inc	associated	Company		
+20234	SRI International	associated	Non-Profit		
+21102	Scripps Research Institute	associated	Company		
+1067538	Janssen Research & Development LLC	associated	Company		
+21048	Brigham & Women's Hospital Inc	associated	Company		
+1208690	Regents of the University of Minnesota, US	associated	Company		
+20526	Arizona State University	associated	Academic		
+20300	Takeda Pharmaceutical Co Ltd	associated	Company	Public	Large
+1144222	Intract Pharma Ltd	associated	Company		
+1117615	OpenBiome	associated	Company		
+14881	Boehringer Ingelheim International GmbH	associated	Company		
+1042113	The Fragile X Research Foundation	associated	Company		
+1196408	Pitt Hopkins Research Foundation	associated	Company		
+1140758	European Neuroblastoma Association	associated	Non-Profit		
+1108158	Ovid Therapeutics Inc	associated	Company	Public	
+1124361	Muscular Dystrophy UK	associated	Non-Profit		
+1046201	Children's Tumor Foundation	associated	Non-Profit		
+21072	Institute of Cancer Research UK	associated	Non-Profit		
+1087713	Barth Syndrome Foundation	associated	Non-Profit		
+1140756	aPODD Foundation	associated	Non-Profit		
+21885	Astex Pharmaceuticals Inc	associated	Company	Public	
+1130027	The Dementia Discovery Fund	associated			
+1147303	Valo Therapeutics Ltd	associated	Company	Private	
+1101959	PureMHC LLC	associated	Company		
+1236307	4B Technologies (Suzhou) Co Ltd	associated	Company	Private	
+1266187	Westlake Pharmaceutical (Hangzhou) Co Ltd	associated	Company		
+1018445	Beijing Tide Pharmaceutical Co Ltd	associated	Company	Private	
+1012947	ChemDiv Inc	associated	Company		
+1053637	Jiangsu Zhengda Fenghai Pharmaceutical Co Ltd	associated	Company		
+1171132	Elevian Inc	associated	Company	Private	
+1272681	Shanghai Sta Pharmaceutical Product Co Ltd	associated			
+14609	Beiersdorf AG	associated	Company	Public	Large
+1122990	Tara Biosystems Inc	associated	Company	Private	
+1142674	A2A Pharmaceuticals Inc	associated	Company		
+1151323	Juvenescence Ltd	associated	Company	Private	
+1107189	Genomics England Ltd	associated	Company		
+14778	BioNumerik Pharmaceuticals Inc	associated	Company	Private	
+1095288	Oncology Venture ApS	associated	Company	Private	
+1044425	Massachusetts Life Sciences Center	associated	Non-Profit		
+1150319	TTC Oncology	associated	Company		
+1115021	Af Chemicals Llc	associated	Company		
+1042135	Sidney Kimmel Comprehensive Cancer Center	associated	Company		
+22821	Georgetown University	associated	Academic		
+1100578	Patheon Inc	associated	Company		
+1008185	ReproCELL Inc	associated	Company	Public	Small
+1047178	Vyant Bio Inc	associated	Company	Public	Micro
+15872	Eisai Co Ltd	associated	Company	Public	Large
+1108254	Hokkaido Information University	associated	Academic		
+18563	Nissan Chemical Corp	associated	Company	Public	Medium
+20686	University of Tokyo	associated	Academic		
+1061958	PeptiDream Inc	associated	Company	Public	Small
+21996	Qiagen NV	associated	Company	Public	Medium
+1025348	Origenis GmbH	associated	Company		
+1092501	Cystic Fibrosis Foundation	associated	Non-Profit		
+1151255	Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator	associated	Non-Profit		
+1207987	CereXis Inc	associated	Company		
+1041928	National Institute on Aging	associated	Company		
+1043068	Eunice Kennedy Shriver National Institute of Child Health & Human Development	associated	Non-Profit		
+1060125	Ataxia Telangiectasia Children's Project Inc	associated	Non-Profit		
+1072395	National Center For Advancing Translational Sciences	associated	Company		
+1059692	Rett Syndrome Research Trust	associated	Non-Profit		
+20690	University of Utah	associated	Academic		
+20695	University of Virginia	associated	Academic		
+1127211	Chromaderm, Inc	associated	Company		
+1093776	Ohio State Innovation Foundation	associated	Non-Profit		
+1130420	University of Utah Health	associated	Academic		
+1138464	Continuum Analytics	associated	Company	Private	
+16299	Sanofi Genzyme	associated	Company		
+1088675	OncoSynergy Inc	associated	Company	Private	
+22344	Central Institute For Experimental Animals	associated	Non-Profit		
+1013783	Bio Tools Inc	associated	Others		
+1180308	Orexia Therapeutics Ltd	associated	Company		
+1101935	Zai Lab Limited	associated	Company	Public	
+1201813	Triplet Therapeutics Inc	associated	Company	Private	
+1079742	Viva Biotech	associated	Company		
+1105437	Twist Bioscience Corp	associated	Company	Public	
+14190	AstraZeneca plc	associated	Company	Public	Large
+1177352	Bright Angel Therapeutics Inc	associated	Company		
+1060303	Toronto Innovation Acceleration Partners	associated	Company		
+29411	TB Alliance	associated	Non-Profit		
+1122629	Wuxi AppTec (US) Inc	associated			
+18681	Ono Pharmaceutical Co Ltd	associated	Company	Public	Large
+1118067	Petra Pharma Corp	associated	Company	Private	
+1126198	Morphic Therapeutic Inc	associated	Company	Public	
+14233	Angelini Pharma SpA	associated	Company		
+15921	Xenon Pharmaceuticals Inc	associated	Company	Public	
+1035705	Sun Pharmaceutical Advanced Research Co Ltd	associated	Company	Public	Small
+1060168	Centre for Drug Research and Development	associated	Non-Profit		
+21237	Loma Linda University	associated	Academic		
+1091296	BiOptix Diagnostics Inc	associated	Company	Private	
+1235570	Novamind Inc	associated	Company	Public	Micro
+1152645	Antengene Corporation Limited	associated	Company	Public	
+1319980	Cancer Research Horizons	associated			
+22542	Dr Falk Pharma GmbH	associated	Company		
+1265276	Tyler Research Institute	associated	Company		

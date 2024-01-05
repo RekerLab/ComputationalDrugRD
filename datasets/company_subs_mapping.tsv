@@ -1,0 +1,117 @@
+company_id	company_name	company_type	computational_biotech
+1118745	AbCellera Biologics	ancestor	True
+1165569	Lineage Biosciences Inc	subsidiary	True
+1051398	Tetragenetics Inc	subsidiary	True
+1093072	AbSci	ancestor	True
+1208475	Totient Inc	subsidiary	True
+1156628	Accutar Biotech	ancestor	False
+1080710	Adagene	ancestor	True
+1109489	Aetion	ancestor	False
+1226261	Replica Analytics Ltd	subsidiary	False
+1084743	AI Therapeutics	ancestor	True
+1069247	AiCure	ancestor	False
+1196876	ArsenalBio	ancestor	True
+1195136	Asimov	ancestor	False
+1139692	Atomwise	ancestor	True
+1209413	BenchSci	ancestor	False
+1138966	BenevolentAI	ancestor	True
+1141944	BenevolentBio	subsidiary	True
+1170503	BenevolentTech	subsidiary	True
+1184789	BIOAGE LABS	ancestor	True
+1102582	BioXcel Therapeutics	ancestor	True
+1295921	OnkosXcel Therapeutics LLC	subsidiary	True
+1213568	Cellarity	ancestor	True
+1164801	Celsius Therapeutics	ancestor	True
+1100779	Circle Pharma	ancestor	True
+27293	Compugen	ancestor	True
+1068977	Compugen USA Inc	subsidiary	True
+1006629	Keddem Bioscience Ltd	subsidiary	True
+1226867	ConcertAI	ancestor	False
+1152142	Datavant	ancestor	False
+1140964	Deep Genomics	ancestor	True
+1206183	Deepcell	ancestor	False
+1194866	Dyno Therapeutics	ancestor	True
+1192966	Empirico	ancestor	False
+1159823	Engine Biosciences	ancestor	False
+1026417	e-Therapeutics	ancestor	True
+1073911	Evaxion Biotech	ancestor	True
+1102412	Exscientia	ancestor	True
+1155639	Finch Therapeutics	ancestor	True
+1139471	Finch Research and Development LLC	subsidiary	True
+1160300	Finch Therapeutics Holdings LLC	subsidiary	True
+1138780	Finch Therapeutics Inc	subsidiary	True
+1122049	Flatiron Health	ancestor	False
+1056444	Foundation Medicine	ancestor	False
+1189253	Frontier Medicines	ancestor	True
+1194851	Genesis Therapeutics	ancestor	True
+1115276	Gritstone Oncology	ancestor	False
+1108263	Healx	ancestor	True
+1202546	Holmusk	ancestor	False
+1231561	Immunai	ancestor	True
+1046215	Immuneering	ancestor	True
+1216205	Alleo Labs	subsidiary	True
+1299626	BioArkive Inc	subsidiary	True
+1209718	ImmunoScape	ancestor	True
+1123826	Insilico Medicine	ancestor	True
+1319283	Yingxi Intelligent Technology (Shanghai) Co Ltd	subsidiary	True
+1184745	Insitro	ancestor	True
+1248132	Interline Therapeutics	ancestor	False
+1222617	Kalderos	ancestor	False
+1189003	Komodo Health	ancestor	False
+1264173	Breakaway Partners LLC	subsidiary	False
+1145423	LabGenius	ancestor	False
+1106466	Lantern Pharma	ancestor	True
+1167921	Mantra Bio	ancestor	False
+1088801	Medable	ancestor	False
+1288984	Omhu A/S	subsidiary	False
+1187485	Modulus Discovery	ancestor	True
+1234959	neoX Biotech	ancestor	False
+1238098	Neuron23	ancestor	True
+1151008	nference	ancestor	False
+1216593	Nine Square Therapeutics	ancestor	False
+1201135	Owkin	ancestor	False
+1194922	Paige	ancestor	False
+1145740	PathAI	ancestor	False
+1154607	Peptilogics	ancestor	True
+1218536	PicnicHealth	ancestor	False
+1177538	Prognos Health	ancestor	False
+1096979	Recursion Pharmaceuticals	ancestor	True
+1139125	Vium Inc	subsidiary	True
+1129791	Relay Therapeutics	ancestor	True
+1217171	Reverie Labs	ancestor	True
+1023065	Schrödinger	ancestor	True
+1114113	XTAL BioStructures	subsidiary	True
+1161011	Standigm	ancestor	False
+1208229	StoneWise	ancestor	False
+1115647	Syapse	ancestor	False
+1193719	Tempus	ancestor	False
+1289569	Highline Sciences	subsidiary	False
+1105917	TriNetX	ancestor	False
+1229923	Advera Health Analytics Inc	subsidiary	False
+1313262	CancerDataNet GmbH	subsidiary	False
+1261472	Oncology Information Service	subsidiary	False
+1225584	Valo Health	ancestor	True
+1146473	Verge Genomics	ancestor	True
+1159502	XtalPi	ancestor	False
+1194864	1910 Genetics	ancestor	False
+1060951	Aitia	ancestor	False
+1195758	Aktana	ancestor	False
+1280308	Ople Inc	subsidiary	False
+1212881	Alto Neuroscience	ancestor	True
+1216672	Apprentice.io	ancestor	False
+1282356	AQEMIA	ancestor	False
+1312789	Atomic AI	ancestor	False
+1233509	BigHat Biosciences	ancestor	True
+1293578	Frugi Biotechnology Inc	subsidiary	True
+1306586	Biofourmis	ancestor	False
+1300644	CHARM Therapeutics	ancestor	False
+1235176	Drug Farm	ancestor	True
+1282925	METiS Therapeutics	ancestor	False
+1248993	MindRank AI	ancestor	True
+1277965	Quris	ancestor	False
+1323346	Quris-UAE	subsidiary	False
+1289722	Terray Therapeutics	ancestor	False
+1205285	Turbine	ancestor	True
+1204019	Unlearn.AI	ancestor	False
+1208592	Generate Biomedicines	ancestor	True
+1010930	Prometheus Biosciences	ancestor	True
