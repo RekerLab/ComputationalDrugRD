@@ -121,6 +121,32 @@ ax1.fill_between(ipo_dates_pub, cumulative_sum(ipo_years), color = color[2])
 ax1.text(2014, 22, 'All\ncompanies', fontsize=15, horizontalalignment='right', color = 'black')
 ax1.text(2019.5, 9, 'Public\ncompanies', fontsize=15, horizontalalignment='right', color = 'black')
 
+
+# print(founding_dates)
+# print(cumulative_sum(years_creation))
+
+# create a df with the data
+df1 = pd.DataFrame({'founding_dates': founding_dates, 'cumulative_sum(years_creation)': cumulative_sum(years_creation)})
+# define the founding dates as the index
+df1.set_index('founding_dates', inplace=True)
+# print(df1)
+
+
+# print(ipo_dates_pub)
+# print(cumulative_sum(ipo_years))
+
+# create a df with the data
+df2 = pd.DataFrame({'ipo_dates_pub': ipo_dates_pub, 'cumulative_sum(ipo_years)': cumulative_sum(ipo_years)})
+df2.set_index('ipo_dates_pub', inplace=True)
+# print(df2)
+
+# combine the two dfs, merging on the date
+df3 = pd.merge(df1, df2, left_index=True, right_index=True, how='outer')
+print(df3)
+
+# save the df3 as excel
+df3.to_excel('df3.xlsx')
+
 ax1.set(xlim=(1990, 2022), xticks=np.arange(1990,2023,2))
 ax1.set_ylabel('Number of Companies',fontsize=15)
 ax1.set_title('Company Creation/IPO',fontsize=15,fontweight='bold')
